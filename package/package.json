@@ -1,0 +1,21 @@
+{
+  "name": "my-validation-helpers",
+  "version": "1.0.1",
+  "description": "A package to validate common inputs like emails, phone numbers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/ayeshakanwal-del/validation-helpers-package.git)"
+  },
+  "keywords": [
+    "validation",
+    "emails",
+    "phone",
+    "utilities"
+  ],
+  "author": "ayeshakanwal-del",
+  "license": "ISC"
+}

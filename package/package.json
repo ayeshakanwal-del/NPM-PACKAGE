@@ -1,6 +1,6 @@
 {
-  "name": "my-validation-helpers",
-  "version": "1.0.1",
+  "name": "my-input-validator",
+  "version": "1.0.2",
   "description": "A package to validate common inputs like emails, phone numbers.",
   "main": "index.js",
   "scripts": {
